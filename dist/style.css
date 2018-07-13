@@ -1,0 +1,68 @@
+/*
+SOCIALS NETWORKS PALETTE WITH HOVER
+Marco Gregorin
+
+Either use dark or light hovers.
+
+*/
+.social-share ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.social-share ul li {
+  list-style: none;
+  margin: 0 10px 10px 0;
+  padding: 0;
+  display: inline-block;
+  font-weight: 600;
+  /* Facebook */
+  /* Twitter */
+  /* Google Plus */
+  /* Linkedin */
+  /* WhatsApp */
+  /* Pinterest */
+}
+.social-share ul li a {
+  color: #fff;
+  padding: 5px 25px;
+  display: inline-block;
+}
+.social-share ul li.facebook {
+  background: #3b5998;
+}
+.social-share ul li.facebook:hover {
+  background-color: #344e86;
+}
+.social-share ul li.twitter {
+  background: #00aced;
+}
+.social-share ul li.twitter:hover {
+  background-color: #0099d4;
+}
+.social-share ul li.google {
+  background: #dd4b39;
+}
+.social-share ul li.google:hover {
+  background-color: #d73925;
+}
+.social-share ul li.linkedin {
+  background: #007bb6;
+}
+.social-share ul li.linkedin:hover {
+  background-color: #006a9d;
+}
+.social-share ul li.whatsapp {
+  background: #25D366;
+}
+.social-share ul li.whatsapp:hover {
+  background-color: #21bd5c;
+}
+.social-share ul li.pinterest {
+  background: #cb2027;
+}
+.social-share ul li.pinterest:hover {
+  background-color: #b51d23;
+}
+
+/*# sourceMappingURL=style.css.map */
